@@ -55,7 +55,7 @@ public class Login {
 	    	ConfigFile.appendContentToLogFile("Set2: Logon the SpiderNet Fail");
 	    }
 				
-		//Close the Browser.
+		//Close the Browser ..
 	    driver.close(); 		
 	}
 
